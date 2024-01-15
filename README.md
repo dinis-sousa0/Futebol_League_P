@@ -1,2 +1,3 @@
 # Futebol_League_P
- liga de futebol em python
+ Projeto liga de futebol.
+ A tabela está formatada para ecrã inteiro.
